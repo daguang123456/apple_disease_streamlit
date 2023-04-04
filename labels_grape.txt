@@ -1,0 +1,3 @@
+0 grape_esca_black_measles
+1 grape_black_rot
+2 graph_healty
