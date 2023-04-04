@@ -1,5 +1,5 @@
 import streamlit as st
-from img_classification import teachable_machine_classification
+# from img_classification import teachable_machine_classification
 from PIL import Image, ImageOps
 
 st.title("使用谷歌的可教机器进行图像分类")
