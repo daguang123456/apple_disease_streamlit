@@ -22,7 +22,7 @@ if uploaded_file is not None:
     else:
         st.write("健康苹果")
 
-st.text("苹果结痂","黑腐病","雪松苹果锈","健康苹果")
+st.text("类:苹果结痂 ","黑腐病 ","雪松苹果锈 ","健康苹果")
 
 #         0 apple_scrab
 # 1 black_rot
